@@ -2,6 +2,8 @@
 
 Este repositório contém um arquivo `docker-compose.yml` para subir rapidamente o ambiente da aplicação **AluraBooks**, utilizando o MongoDB.
 
+![Tela inicial da aplicação](https://imgur.com/FYLBkBL)
+
 ## 🚀 Como rodar
 
 1. Clone este repositório:
