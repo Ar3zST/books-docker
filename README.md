@@ -25,7 +25,9 @@ mongodb	    Banco de dados MongoDB (v4.4)	  interno
 🗂️ Estrutura esperada
 
 📁 projeto/
+
 ├── docker-compose.yml
+
 └── README.md
 Não é necessário clonar o código da aplicação — a imagem aluradocker/alura-books:1.0 já vem com tudo pronto.
 
